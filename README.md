@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Raia! 
 
-- 💻 I'm a researcher at the DFKI Speech and Language Technology lab in Berlin.
-- 📑 Currently working on projects in the domain of scholarly information processing and scientific knowledge graphs.
+- 💻 I'm a researcher at the DFKI Speech and Language Technology lab and a PhD candidate at TU Berlin.
+- 📑 Currently working on projects in the domain of scholarly information processing with a focus on making science accessbile to the public. 
 - 🌱 Always intrigued to expand my knowledge on different NLP research.
 
 <!--
